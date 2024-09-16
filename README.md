@@ -1,1 +1,2 @@
 # Portfolio-Projects
+This repository showcases a selection of my key projects, highlighting my skills in software development, data analysis, and automation. Each project includes detailed documentation and code examples, offering insight into the technologies and techniques I've used.
